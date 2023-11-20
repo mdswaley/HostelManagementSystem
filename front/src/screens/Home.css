@@ -1,0 +1,35 @@
+/* Home.css */
+body{
+  background-color: aquamarine;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    /* Adjust as needed */
+    
+  align-items: center;
+  height: 80vh;
+
+
+  
+  }
+  .container{
+    background-color: aqua;
+  }
+  
+  .card {
+    margin-right: 10px; 
+    height: 300px;
+    text-align: center;/* Adjust margin as needed */
+  }
+  .card-link{
+    font-size: 16px;
+    color: rgb(160, 160, 1);
+  }
+  
+  .card-title{
+    font-size: 48px;
+  }
+  .card{
+    background-color: rgb(218, 175, 199);
+  }
